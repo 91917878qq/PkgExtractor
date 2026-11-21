@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+ptmp/
+dist/
+publish/
+
+# Rider / Visual Studio
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local test material
+_probe/
+*.pkg
+*.mpkg
